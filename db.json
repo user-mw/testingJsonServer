@@ -1,0 +1,88 @@
+{
+	"cars": [
+		{
+			"id": 1,
+			"Brand": "Mercedes-Benz",
+			"model": "E 220",
+			"year": 2016,
+			"color": "Dark blue",
+			"cost": "35000 euro"
+		},
+		{
+			"id": 2,
+			"Brand": "Volkswagen",
+			"model": "Touareg",
+			"year": 2015,
+			"color": "Grey Canyon",
+			"cost": "39000 euro"
+		},
+		{
+			"id": 3,
+			"Brand": "Mercedes-Benz",
+			"model": "GLC 250",
+			"year": 2017,
+			"color": "White",
+			"cost": "45000 euro"
+		},
+		{
+			"id": 4,
+			"Brand": "BMW",
+			"model": "3",
+			"year": 2016,
+			"color": "Blue",
+			"cost": "25000 euro"
+		}
+	],
+	"russian_fcs": [
+		{
+			"id": 1,
+			"name": "FC Lokomotiv Moscow",
+			"numberOfNationalTrophies": 2,
+			"currentPosition": 1
+		},
+		{
+			"id": 2,
+			"name": "FC Dinamo Moscow",
+			"numberOfNationalTrophies": 0,
+			"currentPosition": 13
+		},
+		{
+			"id": 3,
+			"name": "FC Krasnodar",
+			"numberOfNationalTrophies": 0,
+			"currentPosition": 5
+		},
+		{
+			"id": 4,
+			"name": "FC Zenit",
+			"numberOfNationalTrophies": 4,
+			"currentPosition": 2
+		}
+	],
+	"articles": [
+		{
+			"id": 1,
+			"authorId": 21,
+			"Title": "Article 1",
+			"wordsNumber": 25390
+		},
+		{
+			"id": 2,
+			"authorId": 25,
+			"Title": "About paper",
+			"wordsNumber": 3801
+		},
+		{
+			"id": 3,
+			"authorId": 146,
+			"Title": "Big bowl",
+			"wordsNumber": 15900
+		},
+		{
+			"id": 4,
+			"authorId": 7,
+			"Title": "When the game begins",
+			"wordsNumber": 5029
+		}
+	]
+}
