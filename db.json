@@ -2,7 +2,7 @@
 	"cars": [
 		{
 			"id": 1,
-			"Brand": "Mercedes-Benz",
+			"brand": "Mercedes-Benz",
 			"model": "E 220",
 			"year": 2016,
 			"color": "Dark blue",
@@ -10,7 +10,7 @@
 		},
 		{
 			"id": 2,
-			"Brand": "Volkswagen",
+			"brand": "Volkswagen",
 			"model": "Touareg",
 			"year": 2015,
 			"color": "Grey Canyon",
@@ -18,7 +18,7 @@
 		},
 		{
 			"id": 3,
-			"Brand": "Mercedes-Benz",
+			"brand": "Mercedes-Benz",
 			"model": "GLC 250",
 			"year": 2017,
 			"color": "White",
@@ -26,7 +26,7 @@
 		},
 		{
 			"id": 4,
-			"Brand": "BMW",
+			"brand": "BMW",
 			"model": "3",
 			"year": 2016,
 			"color": "Blue",
@@ -63,25 +63,25 @@
 		{
 			"id": 1,
 			"authorId": 21,
-			"Title": "Article 1",
+			"title": "Article 1",
 			"wordsNumber": 25390
 		},
 		{
 			"id": 2,
 			"authorId": 25,
-			"Title": "About paper",
+			"title": "About paper",
 			"wordsNumber": 3801
 		},
 		{
 			"id": 3,
 			"authorId": 146,
-			"Title": "Big bowl",
+			"title": "Big bowl",
 			"wordsNumber": 15900
 		},
 		{
 			"id": 4,
 			"authorId": 7,
-			"Title": "When the game begins",
+			"title": "When the game begins",
 			"wordsNumber": 5029
 		}
 	]
