@@ -31,6 +31,38 @@
 			"year": 2016,
 			"color": "Blue",
 			"cost": "25000 euro"
+		},
+		{
+			"id": 5,
+			"brand": "Mazda",
+			"model": "6",
+			"year": 2016,
+			"color": "Cherry",
+			"cost": "20000 euro"
+		},
+		{
+			"id": 6,
+			"brand": "MINI",
+			"model": "Cooper S",
+			"year": 2017,
+			"color": "Blue",
+			"cost": "18000 euro"
+		},
+		{
+			"id": 7,
+			"brand": "Mitsubishi",
+			"model": "ASX",
+			"year": 2017,
+			"color": "Red",
+			"cost": "16000 euro"
+		},
+		{
+			"id": 8,
+			"brand": "Maserati",
+			"model": "Levante Diesel",
+			"year": 2018,
+			"color": "Black",
+			"cost": "40000 euro"
 		}
 	],
 	"russian_fcs": [
