@@ -75,21 +75,57 @@
 		{
 			"id": 2,
 			"name": "FC Dinamo Moscow",
-			"numberOfNationalTrophies": 0,
-			"currentPosition": 13
+			"numberOfNationalTrophies": 2,
+			"currentPosition": 8
 		},
 		{
 			"id": 3,
 			"name": "FC Krasnodar",
 			"numberOfNationalTrophies": 0,
-			"currentPosition": 5
+			"currentPosition": 4
 		},
 		{
 			"id": 4,
 			"name": "FC Zenit",
 			"numberOfNationalTrophies": 4,
+			"currentPosition": 5
+		},
+		{
+			"id": 5,
+			"name": "FC Spartak Moscow",
+			"numberOfNationalTrophies": 3,
+			"currentPosition": 3
+		},
+		{
+			"id": 6,
+			"name": "FC Rostov",
+			"numberOfNationalTrophies": 0,
+			"currentPosition": 11
+		},
+		{
+			"id": 7,
+			"name": "FC Anji",
+			"numberOfNationalTrophies": 0,
+			"currentPosition": 14
+		},
+		{
+			"id": 8,
+			"name": "FC CSKA Moscow",
+			"numberOfNationalTrophies": 5,
 			"currentPosition": 2
-		}
+		},
+		{
+			"id": 9,
+			"name": "FC Arsenal",
+			"numberOfNationalTrophies": 0,
+			"currentPosition": 7
+		},
+		{
+			"id": 1,
+			"name": "FC Ural",
+			"numberOfNationalTrophies": 0,
+			"currentPosition": 12
+		},
 	],
 	"articles": [
 		{
